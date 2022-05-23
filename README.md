@@ -3,8 +3,4 @@ mrchimmy/mrchimmy is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-สวัสดีผม MrChim เป็น Dev มือใหม่ ตอนนี้กำลังศึกษาเรียนรู้
-ตอนนี้อายุ 15 
- - ทำเซิฟมายคราฟ
- - เขียนเว็บ
-ครับ
+Hi I'm Chim, I am Website developer and Admin Minecraft
