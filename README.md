@@ -4,7 +4,7 @@ Hi 👋 My name is MrChimKy
 WebApp Developer, Website Developer
 -----------------------------------
 
-I've been learning Javascript for 1 years
+I've been learning Javascript for 2 years
 
 * 🌍  I'm based in NakhonRatchima, Thailand
 * 🖥️  See my portfolio at [Prototype](http://store.bananacnm.com)
