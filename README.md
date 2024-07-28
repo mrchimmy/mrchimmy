@@ -8,7 +8,7 @@ I've been learning Javascript for 2 years
 
 * 🌍  I'm based in NakhonRatchima, Thailand
 * 🖥️  See my portfolio at [Prototype](http://store.bananacnm.com)
-* ✉️  You can contact me at [mrchimky@hotmail.com](mailto:mrchimky@hotmail.com)
+* ✉️  You can contact me at [mrchimky@hotmail.com](mailto:mrchimservice@gmail.com)
 * 🧠  I'm learning TypeScript
 
 <a href="https://www.twitter.com/mrchim_ky" target="_blank" rel="noreferrer"><img
