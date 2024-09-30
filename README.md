@@ -1,13 +1,13 @@
-Hi 👋 My name is MrChimKy
+Hi 👋 I'm MrChimKy
 =========================
 
-WebApp Developer, Website Developer
+WebApp Developer, Full-Stack Developer
 -----------------------------------
 
 I've been learning Javascript for 2 years
 
-* 🌍  I'm based in NakhonRatchima, Thailand
-* 🖥️  See my portfolio at [Prototype](http://store.bananacnm.com)
+* 🌍  I'm based in Bangkok, Thailand
+* 🖥️  See my portfolio at [Prototype](https://dummy.mrchimky.net)
 * ✉️  You can contact me at [mrchimky@hotmail.com](mailto:mrchimservice@gmail.com)
 * 🧠  I'm learning TypeScript
 
