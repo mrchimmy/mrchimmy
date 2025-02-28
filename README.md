@@ -4,7 +4,7 @@ Hi 👋 I'm MrChimKy
 WebApp Developer, Full-Stack Developer
 -----------------------------------
 
-I've been learning Javascript for 2 years
+Now studing about Computer Network.
 
 * 🌍  I'm based in Bangkok, Thailand
 * 🖥️  See my portfolio at [Prototype](https://dummy.mrchimky.net)
